@@ -2,6 +2,5 @@ name: stats
 dependencies:
   - numpy
   - pandas
-  - plotly.express 
-  - plotly.graph_objects 
+  - plotly
   - requests
