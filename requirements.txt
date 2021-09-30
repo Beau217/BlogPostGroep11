@@ -1,4 +1,10 @@
-pandas
-plotly
-streamlit
-numpy
+numpy               1.20.1
+pandas              1.2.4
+plotly              5.3.1
+session_info        1.0.0
+streamlit           0.89.0
+IPython             7.22.0
+jupyter_client      6.1.12
+jupyter_core        4.7.1
+jupyterlab          3.0.14
+notebook            6.3.0
