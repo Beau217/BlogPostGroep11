@@ -1,4 +1,4 @@
-pandas (1.2.4)
-numpy (1.20.1)
-plotly (5.3.1)
-streamlit (0.89.0)
+pandas 
+numpy 
+plotly 
+streamlit 
